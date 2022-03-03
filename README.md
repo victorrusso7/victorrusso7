@@ -1,5 +1,5 @@
 # Victor Luiz Russo 👨‍💻 
-Meu nome é Victor Luiz Russo e atualmente estou atuando na área de Building Management System.
+Meu nome é Victor Luiz Russo e atualmente estou atuando na área de Building Management System (BMS).
 
 - Engenharia de Computação - 1º Semestre;
 - Técnico Eletrônico;
