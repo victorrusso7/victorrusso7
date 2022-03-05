@@ -18,8 +18,7 @@ Meu nome é Victor Luiz Russo e atualmente estou atuando na área de Building Ma
 ## ⚙️ &nbsp;GitHub Analytics
 <img align="right" height="215em" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 <p align="left">
-<img width="510em" src="https://github-readme-stats.vercel.app/api?username=victorrusso7&show_icons=true&theme=tokyonight" alt="victorruso7 stats"/>
-<img width="510em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrusso7&layout=compact&theme=tokyonight" alt="victorrusso7 most languages"/>
+<img width="510em" src="https://github-readme-stats.vercel.app/api?username=victorrusso7&show_icons=true&theme=tokyonight" alt="victorruso7 stats"/> 
 </p>
-
+ 
  ![snake svg](https://github.com/victorrusso7/victorrusso7/blob/output/github-contribution-grid-snake.svg)
